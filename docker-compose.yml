@@ -1,0 +1,27 @@
+version: '3.4'
+
+services:
+  identityserver:
+    image: identityserver
+    container_name: identityserver
+    build:
+      context: ./IdentityServer/
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    environment:
+      - ReactClientUrl=https://material-dashboard-asp-net-react.creative-tim.com
+
+  react:
+    image: react
+    container_name: react
+    build:
+      context: ./React/
+      dockerfile: Dockerfile
+    command: npm start
+    ports:
+      - "3000:3000"
+    environment:
+      - REACT_APP_AUTH_SERVER_URL=https://material-dashboard-asp-net-react-auth.creative-tim.com
+      - REACT_APP_CLIENT_URL=https://material-dashboard-asp-net-react.creative-tim.com
+      - REACT_APP_CLIENT_ID=react.client
