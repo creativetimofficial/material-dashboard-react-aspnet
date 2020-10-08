@@ -35,8 +35,6 @@ Special thanks go to:
 
 We are very excited to share this dashboard with you and we look forward to hearing your feedback!
 
-You can find the Github Repo here.
-
 ## Table of Contents
 
 * [Versions](#versions)
