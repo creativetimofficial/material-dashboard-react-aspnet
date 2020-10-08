@@ -581,16 +581,16 @@ material-dashboard-react-aspnet
 
 At present, we officially aim to support the last two versions of the following browsers:
 
-<img src="src/assets/github/chrome.png" width="64" height="64"> <img src="src/assets/github/firefox.png" width="64" height="64"> <img src="src/assets/github/edge.png" width="64" height="64"> <img src="src/assets/github/safari.png" width="64" height="64"> <img src="src/assets/github/opera.png" width="64" height="64">
+<img src="React/src/assets/github/chrome.png" width="64" height="64"> <img src="React/src/assets/github/firefox.png" width="64" height="64"> <img src="React/src/assets/github/edge.png" width="64" height="64"> <img src="React/src/assets/github/safari.png" width="64" height="64"> <img src="React/src/assets/github/opera.png" width="64" height="64">
 
 
 ## Resources
-- Demo: https://demos.creative-tim.com/material-dashboard-react
-- Download Page: https://www.creative-tim.com/product/material-dashboard-react
-- Documentation: https://demos.creative-tim.com/material-dashboard-react/#/documentation/tutorial
+- Demo: https://www.creative-tim.com/live/material-dashboard-react-asp-net
+- Download Page: https://www.creative-tim.com/product/material-dashboard-react-aspnet
+- Documentation: https://demos.creative-tim.com/material-dashboard-react/#/documentation/asp-net
 - License Agreement: https://www.creative-tim.com/license
 - Support: https://www.creative-tim.com/contact-us
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/material-dashboard-react/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/material-dashboard-react-aspnet/issues)
 - [Material Kit React - For Front End Development](https://www.creative-tim.com/product/material-kit-react?ref=github-mdr-free)
 
 ## Reporting Issues
