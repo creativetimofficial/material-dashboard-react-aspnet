@@ -1,18 +1,34 @@
-# [Material Dashboard React](https://demos.creative-tim.com/material-dashboard-react/#/dashboard) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fcreativetimofficial.github.io%2Fmaterial-dashboard-react&text=Material%20Dashboard%20React%20-%20Free%20Bootstrap%20Admin%20Template&original_referer=https%3A%2F%2Fdemos.creative-tim.com%2Fmaterial-dashboard-react%2F%3F_ga%3D2.10428917.198078103.1532329372-1803433978.1528781151&via=creativetim&hashtags=react%2Cmaterial-ui)
+# [Material Dashboard React Aspnet](https://www.creative-tim.com/live/material-dashboard-react-asp-net) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/share?url=https%3A%2F%2Fwww.creative-tim.com%2Flive%2Fmaterial-dashboard-react-asp-net&text=Material%20Dashboard%20React%20Aspnet%20-%20Free%Aspnet%20Admin%20Template&via=%40creativetim%20&hashtags=react%20%20%23material-ui%20%23aspnet)
 
 
 
-![version](https://img.shields.io/badge/version-1.9.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-dashboard-react.svg?maxAge=2592000)]() [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/material-dashboard-react.svg?maxAge=2592000)]() [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim/material-dashboard?utm_source=share-link&utm_medium=link&utm_campaign=share-link) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-dashboard-react-aspnet.svg?maxAge=2592000)]() [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/material-dashboard-react-aspnet.svg?maxAge=2592000)]() [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim/material-dashboard?utm_source=share-link&utm_medium=link&utm_campaign=share-link) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
 ![Product Gif](src/assets/github/md-react.gif)
 
-Material Dashboard React is a free Material-UI Admin with a fresh, new design inspired by Google's Material Design. We are very excited to introduce our take on the material concepts through an easy to use and beautiful set of components. Material Dashboard React was built over the popular Material-UI framework.
+Start your development with an Admin Dashboard built for ASP.NET Core framework, the newest go-to technology from Microsoft for top companies. [Creative Tim](https://www.creative-tim.com/)  to provide a fully coded **frontend + backend** solution for you. It features a huge number of components that can help you create amazing websites and brings with itself innumerable advantages: the lightweight, fast, scalable and modern way to execute your next top app.
 
-Material Dashboard React makes use of light, surface and movement. The general layout resembles sheets of paper following multiple different layers, so that the depth and order is obvious. The navigation stays mainly on the left sidebar and the content is on the right inside the main panel.
+**Go development with Docker Containers**
 
-Material Dashboard React comes with 5 color filter choices for both the sidebar and the card headers (blue, green, orange, red and purple) and an option to have a background image on the sidebar.
+Developing apps today requires so much more than writing code. Multiple languages, frameworks, architectures, and discontinuous interfaces between tools for each lifecycle stage creates enormous complexity. Docker simplifies and accelerates your workflow, while giving developers the freedom to innovate with their choice of tools, application stacks, and deployment environments for each project.
 
-Material Dashboard React was created using [create-react-app](https://github.com/facebook/create-react-app) and it uses a framework built by our friend [Olivier - Material-UI v3.1.0](https://github.com/mui-org/material-ui), who did an amazing job creating the backbone for the material effects, animations, ripples and transitions. Big thanks to his team for the effort and forward thinking they put into it.
+**Fully Coded Components**
+
+Material Dashboard React ASP.NET is built with over frontend 30 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using SASS files.
+You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Dashboard is coming with prebuilt examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
+
+Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
+
+View all components [here](https://demos.creative-tim.com/material-dashboard-react/#/documentation/buttons)
+
+**Complex Documentation**
+
+Each element is well presented in very complex documentation. You can check the components [here](https://demos.creative-tim.com/material-dashboard-react/#/documentation/buttons)
+
+**Example Pages**
+
+If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
+View example pages [here](https://www.creative-tim.com/live/material-dashboard-react-asp-net)
 
 Special thanks go to:
 + [React-chartist](https://github.com/fraserxu/react-chartist) for the wonderful charts.
