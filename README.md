@@ -65,9 +65,9 @@ You can find the Github Repo here.
 
 | Dashboard | User Profile | Tables | Maps | Notification |
 | --- | --- | --- | --- | --- |
-| [![Start page](React/src/assets/github/dashboard.jpg)](https://demos.creative-tim.com/material-dashboard-react/#/dashboard) | [![User profile page](React/src/assets/github/userprofile.jpg)](https://demos.creative-tim.com/material-dashboard-react/#/user) | [![Tables page ](React/src/assets/github/tables.jpg)](https://demos.creative-tim.com/material-dashboard-react/#/table) | [![Maps Page](React/src/assets/github/map.jpg)](https://demos.creative-tim.com/material-dashboard-react/#/maps) | [![Notification page](React/src/assets/github/notifications.jpg)](https://demos.creative-tim.com/material-dashboard-react/#/notifications)
+| [![Start page](React/src/assets/github/dashboard.jpg)](https://material-dashboard-asp-net-react.creative-tim.com/admin/dashboard) | [![User profile page](React/src/assets/github/userprofile.jpg)](https://material-dashboard-asp-net-react.creative-tim.com/admin/user) | [![Tables page ](React/src/assets/github/tables.jpg)](https://material-dashboard-asp-net-react.creative-tim.com/admin/table) | [![Maps Page](React/src/assets/github/map.jpg)](https://material-dashboard-asp-net-react.creative-tim.com/admin/maps) | [![Notification page](React/src/assets/github/notifications.jpg)](https://material-dashboard-asp-net-react.creative-tim.com/admin/notifications)
 
-[View More](https://demos.creative-tim.com/material-dashboard-react/#/dashboard).
+[View More](https://www.creative-tim.com/live/material-dashboard-react-asp-net).
 
 
 ## Quick start
