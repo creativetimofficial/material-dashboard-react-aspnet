@@ -33,12 +33,10 @@ namespace IdentityServer
             services.AddCors(options => {
                 options.AddPolicy("default", policy =>
                 {
-                    policy.WithOrigins($"{Configuration.GetValue<string>("ReactClientUrl") }",
-                                        "https://material-dashboard-asp-net-react-auth.creative-tim.com")
+                    policy.WithOrigins($"{Configuration.GetValue<string>("ReactClientUrl") }")
                         .AllowAnyHeader()
                         .AllowAnyMethod()
                         .AllowCredentials();
-
                 });
             });
 
@@ -68,7 +66,7 @@ namespace IdentityServer
                 options.Events.RaiseInformationEvents = true;
                 options.Events.RaiseFailureEvents = true;
                 options.Events.RaiseSuccessEvents = true;
-
+                
                 // see https://identityserver4.readthedocs.io/en/latest/topics/resources.html
                 options.EmitStaticAudienceClaim = true;
             })
@@ -80,13 +78,11 @@ namespace IdentityServer
             // not recommended for production - you need to store your key material somewhere secure
             builder.AddDeveloperSigningCredential();
 
-
+     
         }
 
         public void Configure(IApplicationBuilder app)
         {
-            // app.UseForwardedHeaders();
-            app.UseForwardedHeaders();
             if (Environment.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -94,7 +90,7 @@ namespace IdentityServer
             }
 
             app.UseStaticFiles();
-            app.UseHttpsRedirection(); //Uncomment to force SSL
+            //app.UseHttpsRedirection(); //Uncomment to force SSL
             app.UseRouting();
             app.UseIdentityServer();
             app.UseCors("default");
@@ -108,4 +104,3 @@ namespace IdentityServer
         }
     }
 }
-
