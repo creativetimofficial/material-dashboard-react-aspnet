@@ -4,7 +4,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/material-dashboard-react-aspnet.svg?maxAge=2592000)]() [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/material-dashboard-react-aspnet.svg?maxAge=2592000)]() [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim/material-dashboard?utm_source=share-link&utm_medium=link&utm_campaign=share-link) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
-![Product Gif](src/assets/github/md-react.gif)
+![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/material-dashboard-react-aspnet/material-dashboard-react-aspnet.gif)
 
 Start your development with an Admin Dashboard built for ASP.NET Core framework, the newest go-to technology from Microsoft for top companies. [Creative Tim](https://www.creative-tim.com/)  to provide a fully coded **frontend + backend** solution for you. It features a huge number of components that can help you create amazing websites and brings with itself innumerable advantages: the lightweight, fast, scalable and modern way to execute your next top app.
 
@@ -79,9 +79,9 @@ You can find the Github Repo here.
 Quick start options:
 
 - Download and install [Docker]("https://docs.docker.com/desktop/")
-- Clone the repo: `git clone https://github.com/creativetimofficial/material-dashboard-react.git`.
-- [Download from Github](https://github.com/creativetimofficial/material-dashboard-react/archive/master.zip).
-- [Download from Creative Tim](https://www.creative-tim.com/product/material-dashboard-react).
+- Clone the repo: `git clone https://github.com/creativetimofficial/material-dashboard-react-aspnet.git`.
+- [Download from Github](https://github.com/creativetimofficial/material-dashboard-react-aspnet/archive/master.zip).
+- [Download from Creative Tim](https://www.creative-tim.com/product/material-dashboard-react-aspnet).
 - From the project root folder run `docker-compose up --build`. Note that the first time you run this the images will build.
 - Once docker-compose has finished, you will find the projects on the following URLs:
 [Dashboard](http://localhost:3000/admin/dashboard)
@@ -109,7 +109,7 @@ If you wish to change any of the settings around authentications, please refer t
 You can find documentation  on IDS [here](https://identityserver.io/)
 
 ## Documentation
-The documentation for the Material Dashboard React is hosted at our [website](https://demos.creative-tim.com/material-dashboard-react/#/documentation/tutorial).
+The documentation for the Material Dashboard React Aspnet is hosted at our [website](https://demos.creative-tim.com/material-dashboard-react/#/documentation/asp-net).
 
 
 ## File Structure
@@ -117,7 +117,7 @@ The documentation for the Material Dashboard React is hosted at our [website](ht
 Within the download you'll find the following directories and files:
 
 ```
-argon-dashboard-pro-free-react - Copy
+material-dashboard-react-aspnet
  ┣ IdentityServer
  ┃ ┣ Data
  ┃ ┃ ┣ Migrations
