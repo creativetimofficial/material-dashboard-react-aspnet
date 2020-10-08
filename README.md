@@ -35,8 +35,6 @@ Special thanks go to:
 
 We are very excited to share this dashboard with you and we look forward to hearing your feedback!
 
-You can find the Github Repo here.
-
 ## Table of Contents
 
 * [Versions](#versions)
@@ -54,24 +52,20 @@ You can find the Github Repo here.
 
 
 ## Versions
-
-[<img src="React/src/assets/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard)
-[<img src="React/src/assets/github/react.svg" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-react)
-[<img src="React/src/assets/github/vuejs.png" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-dashboard)
-[<img src="React/src/assets/github/angular.png" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-angular2)
+[<img src="React/src/assets/github/aspnet.png" width="60" height="60" />](https://www.creative-tim.com/product/material-dashboard-react-aspnet)
 
 
-| HTML | React | Vue | Angular |
-| --- | --- | --- | --- |
-| [![Material Dashboard HTML](React/src/assets/github/opt_md_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard) | [![Material Dashboard React](React/src/assets/github/opt_mdr_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-react) | [![Vue Material Dashboard ](React/src/assets/github/opt_md_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard) | [![Material Dashboard Angular](React/src/assets/github/opt_md_angular_thumbnail.jpg)](https://www.creative-tim.com/product/material-dashboard-angular2)
+| Aspnet |
+| --- | 
+| [![Material Dashboard React Aspnet](https://s3.amazonaws.com/creativetim_bucket/products/397/thumb/opt_md_aspnet_thumbnail.jpg?1602152389)](https://www.creative-tim.com/product/material-dashboard-react-aspnet) |
 
 ## Demo
 
 | Dashboard | User Profile | Tables | Maps | Notification |
 | --- | --- | --- | --- | --- |
-| [![Start page](React/src/assets/github/dashboard.png)](https://demos.creative-tim.com/material-dashboard-react/#/dashboard) | [![User profile page](React/src/assets/github/user_profile.png)](https://demos.creative-tim.com/material-dashboard-react/#/user) | [![Tables page ](React/src/assets/github/tables.png)](https://demos.creative-tim.com/material-dashboard-react/#/table) | [![Maps Page](React/src/assets/github/maps.png)](https://demos.creative-tim.com/material-dashboard-react/#/maps) | [![Notification page](React/src/assets/github/notification.png)](https://demos.creative-tim.com/material-dashboard-react/#/notifications)
+| [![Start page](React/src/assets/github/dashboard.jpg)](https://material-dashboard-asp-net-react.creative-tim.com/admin/dashboard) | [![User profile page](React/src/assets/github/userprofile.jpg)](https://material-dashboard-asp-net-react.creative-tim.com/admin/user) | [![Tables page ](React/src/assets/github/tables.jpg)](https://material-dashboard-asp-net-react.creative-tim.com/admin/table) | [![Maps Page](React/src/assets/github/map.jpg)](https://material-dashboard-asp-net-react.creative-tim.com/admin/maps) | [![Notification page](React/src/assets/github/notifications.jpg)](https://material-dashboard-asp-net-react.creative-tim.com/admin/notifications)
 
-[View More](https://demos.creative-tim.com/material-dashboard-react/#/dashboard).
+[View More](https://www.creative-tim.com/live/material-dashboard-react-asp-net).
 
 
 ## Quick start
@@ -607,7 +601,7 @@ If you have questions or need help integrating the product please [contact us](h
 ## Licensing
 
 - Copyright 2020 Creative Tim (https://www.creative-tim.com)
-- Licensed under MIT (https://github.com/creativetimofficial/material-dashboard-react/blob/master/LICENSE.md)
+- Licensed under MIT (https://github.com/creativetimofficial/material-dashboard-react-aspnet/blob/master/LICENSE.md)
 
 ## Useful Links
 
