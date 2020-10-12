@@ -8,7 +8,7 @@
 
 Start your development with an Admin Dashboard built for ASP.NET Core framework, the newest go-to technology from Microsoft for top companies. [Creative Tim](https://www.creative-tim.com/)  to provide a fully coded **frontend + backend** solution for you. It features a huge number of components that can help you create amazing websites and brings with itself innumerable advantages: the lightweight, fast, scalable and modern way to execute your next top app.
 
-**Go development with Docker Containers**
+**Speed up development with Docker containers**
 
 Developing apps today requires so much more than writing code. Multiple languages, frameworks, architectures, and discontinuous interfaces between tools for each lifecycle stage creates enormous complexity. Docker simplifies and accelerates your workflow, while giving developers the freedom to innovate with their choice of tools, application stacks, and deployment environments for each project.
 
