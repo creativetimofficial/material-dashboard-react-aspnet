@@ -1,9 +1,3 @@
-<a href="https://www.creative-tim.com/campaign?utm_medium=social&utm_source=github&utm_campaign=cm-readme-2020">
-<img border="0" alt="Creative Tim Cyber Monday Offer" src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/cm-github-banner.jpg" >
-</a>
-
-
-
 # [Material Dashboard React Aspnet](https://www.creative-tim.com/live/material-dashboard-react-asp-net) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/share?url=https%3A%2F%2Fwww.creative-tim.com%2Flive%2Fmaterial-dashboard-react-asp-net&text=Material%20Dashboard%20React%20Aspnet%20-%20Free%Aspnet%20Admin%20Template&via=%40creativetim%20&hashtags=react%20%20%23material-ui%20%23aspnet)
 
 
